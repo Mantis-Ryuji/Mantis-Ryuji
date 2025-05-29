@@ -1,6 +1,8 @@
 ## 🔍 About Me
 
-## 🔍 About Repository
+
+## 🚀 About Repository
+
 - **`Playground`** :
 
   
@@ -16,9 +18,7 @@
 - 📊 matplotlib, seaborn, OpenCV, PIL
 - 📁 Git, GitHub, Google Colab, Jupyter Notebook, VSCode
 
----
-
 ## 📫 Contact
 
 - ✉️ Email: ryuji0801yama@icloud.com
-- 📂 GitHub: [github.com/yourusername](https://github.com/Mantsi-Ryuji)
+- 📂 GitHub: [github.com/Mantsi-Ryuji](https://github.com/Mantsi-Ryuji)
