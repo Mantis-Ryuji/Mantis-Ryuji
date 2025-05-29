@@ -15,7 +15,7 @@
 ## ⚙️ Tech Stack
 
 - 💻 Python, PyTorch, Scikit-learn, cuML, SciPy, NumPy, Pandas
-- 📊 matplotlib, seaborn, OpenCV, PIL
+- 📊 Matplotlib, Seaborn, OpenCV, PIL
 - 📁 Git, GitHub, Google Colab, Jupyter Notebook, VSCode
 
 ## 📫 Contact
