@@ -3,10 +3,10 @@
 
 ## 🚀 About Repository
 
-- **`Playground`** :
+- **`Playground`** [https://github.com/Mantis-Ryuji/Playground]:
 
   
-- **`Wood_Degradation_Color`** :
+- **`Wood_Degradation_Color`** [https://github.com/Mantis-Ryuji/Wood_Degradation_Color]:
 
   
 - **`Wood_Degradation_NIR`** :
