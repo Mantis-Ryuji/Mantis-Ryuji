@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🔍 About Me
 
-<!--
-**Mantis-Ryuji/Mantis-Ryuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 About Repository
+- **`Playground`** :
 
-Here are some ideas to get you started:
+  
+- **`Wood_Degradation_Color`** :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+- **`Wood_Degradation_NIR`** :
+
+
+## ⚙️ Tech Stack
+
+- 💻 Python, PyTorch, Scikit-learn, cuML, SciPy, NumPy, Pandas
+- 📊 matplotlib, seaborn, OpenCV, PIL
+- 📁 Git, GitHub, Google Colab, Jupyter Notebook, VSCode
+
+---
+
+## 📫 Contact
+
+- ✉️ Email: ryuji0801yama@icloud.com
+- 📂 GitHub: [github.com/yourusername](https://github.com/Mantsi-Ryuji)
