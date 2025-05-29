@@ -21,4 +21,4 @@
 ## 📫 Contact
 
 - ✉️ Email: ryuji0801yama@icloud.com
-- 📂 GitHub: [https://github.com/Mantsi-Ryuji](https://github.com/Mantsi-Ryuji)
+- 📂 GitHub: [https://github.com/Mantis-Ryuji](https://github.com/Mantis-Ryuji)
