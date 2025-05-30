@@ -3,16 +3,16 @@ aaaaaaaa
 
 ## 🚀 About Repository
 
-- ### `Playground`:<br>
+- ### `Playground`:
   aaaaaaaaaaa
   <br>
   [https://github.com/Mantis-Ryuji/Playground]
 
-- **`Wood_Degradation_Color`**:<br>
+- ### `Wood_Degradation_Color`:
   aaaaaaaaa
   <br>
   [https://github.com/Mantis-Ryuji/Wood_Degradation_Color]
-- **`Wood_Degradation_NIR`** :<br>
+- ### `Wood_Degradation_NIR`:
   aaaaaaaaaaaaaaaaaaaaa
   <br>
   []
