@@ -6,7 +6,7 @@ I'm also interested in machine learning, especially deep learning for image-rela
 ## 🚀 About My Repositories
 
 - ### [`Playground`](https://github.com/Mantis-Ryuji/Playground)  
-  A collection of my study logs and experiments. (Written in Japanease)
+  A collection of my study logs and experiments. (Written in Japanease) <br>
   Mainly focused on deep learning for image-related tasks.
 
 - ### [`Wood_Degradation_Color`](https://github.com/Mantis-Ryuji/Wood_Degradation_Color)  
