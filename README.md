@@ -28,4 +28,3 @@ I'm also interested in machine learning, especially deep learning for image-rela
 ## 📫 Contact
 
 - ✉️ Email: ryuji0801yama@icloud.com
-- 📂 GitHub: [https://github.com/Mantis-Ryuji](https://github.com/Mantis-Ryuji)
