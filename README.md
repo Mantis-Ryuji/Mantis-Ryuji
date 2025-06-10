@@ -13,7 +13,7 @@ I'm also interested in machine learning, especially deep learning for image-rela
   An analysis of color changes from the surface to the interior of wood due to degradation.  
   This project is based on the research I conducted during my fourth year (B4) as an undergraduate student.
 
-- ### [`Wood_Degradation_NIR`](https://github.com/Mantis-Ryuji/Wood_Degradation_NIR)  
+- ### [`Wood_Degradation_NIR`]
   Research on wood degradation using near-infrared (NIR) spectra.  <br>
   I'm also exploring the application of deep learning to this analysis. <br>
   This repository will contain the core of my master’s research. **(Coming soon)**
